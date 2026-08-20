@@ -23,6 +23,9 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q13 | Factorial (Recursion) | `practice/q13_factorial` |
 | Q14 | Sum of a List (Recursion) | `practice/q14_sum_of_list` |
 | Q15 | String Reversal (Recursion) | `practice/q15_reverse_string_recursive` |
+| Q16 | Count Numbers Whose Square Contains Digit 3 (freeCodeCamp) | `practice/freecodecamp_daily_questions/20.08.2026_3_strikes` |
+| Q17 | Sum of Squares (1 to n) (freeCodeCamp) | `practice/freecodecamp_daily_questions/19.08.2026_sum_of_squares` |
+| Q18 | Factorializer (freeCodeCamp) | `practice/freecodecamp_daily_questions/18.08.2026_factorializer` |
 
 ---
 
