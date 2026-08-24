@@ -28,6 +28,10 @@ One directory per LeetCode problem, each containing a single `main.py`:
 - Example test cases are included inline at the bottom of each file (not in a separate test file), using `print()` calls with expected output in comments.
 - Problem constraints and examples are copied as comments at the top of the file.
 
+## Notes Vault
+
+`solutions/` is an Obsidian vault (practice questions, notes). `.obsidian/workspace.json` is gitignored — it's local UI state, not vault content.
+
 ## GitHub
 
 - Remote: `git@github-personal:vyusufcan/leetcode.git`

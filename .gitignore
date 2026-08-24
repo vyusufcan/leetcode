@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Obsidian (local UI state, not vault content)
+solutions/.obsidian/workspace.json
+solutions/.obsidian/workspace-mobile.json
