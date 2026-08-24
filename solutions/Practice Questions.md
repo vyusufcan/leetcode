@@ -30,6 +30,8 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q20 | Unnatural Prime (freeCodeCamp) | `practice/freecodecamp_daily_questions/23.08.2026_unnatural_prime` |
 | Q21 | Message Decoder (freeCodeCamp) | `practice/freecodecamp_daily_questions/22.08.2026_message_decoder` |
 | Q22 | Anagram Checker (freeCodeCamp) | `practice/freecodecamp_daily_questions/16.08.2026_anagram_checker` |
+| Q23 | Emoji Translator (freeCodeCamp) | `practice/freecodecamp_daily_questions/03.08.2026_emoji_translator` |
+| Q24 | Morse Code (freeCodeCamp) | `practice/freecodecamp_daily_questions/31.07.2026_morse_code` |
 
 ---
 
