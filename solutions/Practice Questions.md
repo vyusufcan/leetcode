@@ -26,6 +26,9 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q16 | Count Numbers Whose Square Contains Digit 3 (freeCodeCamp) | `practice/freecodecamp_daily_questions/20.08.2026_3_strikes` |
 | Q17 | Sum of Squares (1 to n) (freeCodeCamp) | `practice/freecodecamp_daily_questions/19.08.2026_sum_of_squares` |
 | Q18 | Factorializer (freeCodeCamp) | `practice/freecodecamp_daily_questions/18.08.2026_factorializer` |
+| Q19 | Two Number Sum (freeCodeCamp) | `practice/freecodecamp_daily_questions/17.08.2026_two_number_sum` |
+| Q20 | Unnatural Prime (freeCodeCamp) | `practice/freecodecamp_daily_questions/23.08.2026_unnatural_prime` |
+| Q21 | Message Decoder (freeCodeCamp) | `practice/freecodecamp_daily_questions/22.08.2026_message_decoder` |
 
 ---
 
