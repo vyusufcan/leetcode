@@ -32,6 +32,7 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q22 | Anagram Checker (freeCodeCamp) | `practice/freecodecamp_daily_questions/16.08.2026_anagram_checker` |
 | Q23 | Emoji Translator (freeCodeCamp) | `practice/freecodecamp_daily_questions/03.08.2026_emoji_translator` |
 | Q24 | Morse Code (freeCodeCamp) | `practice/freecodecamp_daily_questions/31.07.2026_morse_code` |
+| Q25 | Golf Handicap Calculator (freeCodeCamp) | `practice/freecodecamp_daily_questions/04.08.2026_golf_handicap_calculator` |
 
 ---
 
