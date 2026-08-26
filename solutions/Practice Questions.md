@@ -33,6 +33,8 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q23 | Emoji Translator (freeCodeCamp) | `practice/freecodecamp_daily_questions/03.08.2026_emoji_translator` |
 | Q24 | Morse Code (freeCodeCamp) | `practice/freecodecamp_daily_questions/31.07.2026_morse_code` |
 | Q25 | Golf Handicap Calculator (freeCodeCamp) | `practice/freecodecamp_daily_questions/04.08.2026_golf_handicap_calculator` |
+| Q26 | camelCase (freeCodeCamp) | `practice/freecodecamp_daily_questions/25.08.2026_camel_case` |
+| Q27 | Between Two Buckets (freeCodeCamp) | `practice/freecodecamp_daily_questions/09.08.2026_between_two_buckets` |
 
 ---
 
