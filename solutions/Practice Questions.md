@@ -35,6 +35,9 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q25 | Golf Handicap Calculator (freeCodeCamp) | `practice/freecodecamp_daily_questions/04.08.2026_golf_handicap_calculator` |
 | Q26 | camelCase (freeCodeCamp) | `practice/freecodecamp_daily_questions/25.08.2026_camel_case` |
 | Q27 | Between Two Buckets (freeCodeCamp) | `practice/freecodecamp_daily_questions/09.08.2026_between_two_buckets` |
+| Q28 | Army Battle (freeCodeCamp) | `practice/freecodecamp_daily_questions/24.08.2026_army_battle` |
+| Q29 | Unorder of Operations (freeCodeCamp) | `practice/freecodecamp_daily_questions/27.08.2026_unorder_of_operations` |
+| Q30 | Second Best (freeCodeCamp) | `practice/freecodecamp_daily_questions/28.08.2026_second_best` |
 
 ---
 
