@@ -40,6 +40,7 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q30 | Second Best (freeCodeCamp) | `practice/freecodecamp_daily_questions/28.08.2026_second_best` |
 | Q31 | Array Duplicates (freeCodeCamp) | `practice/freecodecamp_daily_questions/30.08.2026_array_duplicates` |
 | Q32 | Pangram (freeCodeCamp) | `practice/freecodecamp_daily_questions/03.09.2026_pangram` |
+| Q33 | RGB to Hex (freeCodeCamp) | `practice/freecodecamp_daily_questions/02.09.2026_rgb_to_hex` |
 
 ---
 
