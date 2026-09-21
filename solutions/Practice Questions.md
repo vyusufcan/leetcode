@@ -44,6 +44,12 @@ Questions asked by Claude in practice sessions. Do not repeat these.
 | Q34 | Tribonacci Sequence (freeCodeCamp) | `practice/freecodecamp_daily_questions/01.09.2026_tribonacci_sequence` |
 | Q35 | Reverse Sentence (freeCodeCamp) | `practice/freecodecamp_daily_questions/11.09.2026_reverse_sentence` |
 | Q36 | Array Diff (freeCodeCamp) | `practice/freecodecamp_daily_questions/10.09.2026_array_diff` |
+| Q37 | Acronym Builder (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/08.09.2026_acronym_builder` |
+| Q38 | Missing Numbers (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/13.09.2026_missing_numbers` |
+| Q39 | Thermostat Adjuster (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/15.09.2026_thermostat_adjuster` |
+| Q40 | Photo Storage (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/19.09.2026_photo_storage` |
+| Q41 | Sentence Capitalizer (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/16.09.2026_sentence_capitalizer` |
+| Q42 | File Storage (freeCodeCamp) | `practice/freecodecamp_daily_questions/September_2026/20.09.2026_file_storage` |
 
 ---
 

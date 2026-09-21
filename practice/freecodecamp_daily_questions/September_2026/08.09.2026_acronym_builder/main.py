@@ -26,7 +26,15 @@ def build_acronym(sentence):
 
     stop_words = {"a", "for", "an", "and", "by", "of"}
 
-    k = [x[0].upper() for x in sentence.split() if x not in stop_words]
+    k = list()
+    y = sentence.split(" ")
+    for x in range(len(y)):
+        if x == 0:
+            k.append(y[x][0].upper())
+        elif x > 0 and y[x] not in stop_words:
+            k.append(y[x][0].upper())
+        else:
+            pass
 
     return "".join(k)
 
